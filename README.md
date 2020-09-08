@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LukeNorris" alt="LukeNorris" /> </p>
 
 Create the Solution 
+<hl>
 
 - 🔭 I’m currently working on a PWA
 - 🌱 I’m currently learning about web sockets 
@@ -16,7 +17,7 @@ Create the Solution
 
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 
-<img alt="Luke's github stats" src="https://github-readme-stats.vercel.app/api?username=LukeNorris&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="300px" width ="500px">
+<img alt="Luke's github stats" src="https://github-readme-stats.vercel.app/api?username=LukeNorris&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="250px" width ="400px">
 
 
 
