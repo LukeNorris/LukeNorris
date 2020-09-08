@@ -4,7 +4,7 @@
 <h2 align="Center">  Hi I'm Luke  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LukeNorris" alt="LukeNorris" /> </p>
 
-I'm a Computer Science Enthusiast , Currently in pre-final year  at SSIPMT Raipur 🤓
+Enterprise Integration and Onboarding 
 
 - 🔭 I’m currently working on taking rest 
 - 🌱 I’m currently learning about web sockets 
