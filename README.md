@@ -1,9 +1,5 @@
 
-
-<h2 align="Center" > <img src="https://zen-davinci-90bb24.netlify.app/" height="120px" width ="120px"> Hi I'm Luke<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> </h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LukeNorris" alt="LukeNorris" /> </p>
-
-
+<img src="https://zen-davinci-90bb24.netlify.app/" >
 
 
 - 🔭 I’m currently working on a PWA
