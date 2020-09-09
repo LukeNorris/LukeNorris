@@ -1,8 +1,4 @@
-<video width="400" controls>
-  <source src="https://zen-davinci-90bb24.netlify.app/">
-  Your browser does not support HTML video.
-</video>
-<img src="https://zen-davinci-90bb24.netlify.app/" >
+<iframe src="https://zen-davinci-90bb24.netlify.app/" title="description">
 
 
 - 🔭 I’m currently working on a PWA
