@@ -1,4 +1,4 @@
-<img src="https://github.com/LukeNorris/typing-text-animation/blob/master/gif-intro.gif" height="170px" width ="1100px" />
+<img src="https://github.com/LukeNorris/typing-text-animation/blob/master/gif-intro%20(1).gif" height="170px" width ="1100px" />
 
 - 🔭 I’m currently working on a PWA
 - 🌱 I’m currently learning about web sockets 
