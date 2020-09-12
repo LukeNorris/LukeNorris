@@ -1,9 +1,7 @@
 <img src="https://github.com/LukeNorris/typing-text-animation/blob/master/gif-intro%20(1).gif" height="150px" width ="1150px" />
 
-- 🔭 I’m currently working on a PWA
+- 🔭 I’m currently working on a startup project. Stay posted 
 - 🌱 I’m currently learning about web sockets 
-- 👯 I’m looking to collaborate on basic Web Dev stuff
-- 🤔 I’m looking for help in learning about Web Dev and JavaScript 
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luke-norris-04677663/)](https://www.linkedin.com/in/luke-norris-04677663/) 
