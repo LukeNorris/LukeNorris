@@ -1,7 +1,6 @@
 <img src="https://github.com/LukeNorris/typing-text-animation/blob/master/gif-intro%20(1).gif" height="150px" width ="1150px" />
 
-- 🔭 I’m currently working on a startup project. Stay tuned 
-- 🌱 I'm currently learning about progressive web apps 
+- 🌱 I'm currently learning the MERN stack   
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/luke-norris-04677663/)](https://www.linkedin.com/in/luke-norris-04677663/) 
